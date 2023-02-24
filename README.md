@@ -1,5 +1,5 @@
 # sharp_tools
-Compiled information all around keeping your tools sharp
+## Compiled information all around keeping your tools sharp
 
 # Grit, Micron, FEPA F, JIS und Co.
 - Grit: 
@@ -9,16 +9,16 @@ Compiled information all around keeping your tools sharp
 
 
 # Der Schärf-Algorithm
-- Schneide inspizieren: 
-- Schneide Reparieren:
-- Schneide Schärfen:
-- Schneide Abziehen:
-- Schneide Polieren: 
+### - Schneide inspizieren: 
+### - Schneide Reparieren:
+### - Schneide Schärfen:
+### - Schneide Abziehen:
+### - Schneide Polieren: 
 
 
 # Welcher 'Schliff' ist geeignet für welche Aufgaben?
-- Ein Schleifbild von einen 'groben' Schleifstein ist eher geeignet um weiches Schnittgut zu trennen, welches auf druck nachgibt (z.B. Stoff, Fleisch, Fish, ...).
-- Ein Schleifbild von einen 'feinen' Schleifstein bis hin zum Abziehleder ist eher für hartes Schnittgut geeignet (z.B. Holz, Hartes Gemüse, ...).
+- Ein Schleifbild von einen 'groben' Schleifstein ist eher geeignet um weiches Schnittgut zu trennen, welches auf druck nachgibt (z.B. Stoff, Fleisch, Fish, ...), die Schneideaktion ist ziehend.
+- Ein Schleifbild von einen 'feinen' Schleifstein bis hin zum Abziehleder ist eher für hartes Schnittgut geeignet (z.B. Holz, Hartes Gemüse, ...), die Schneideaktion ist druck.
 
 
 # Do's and Dont's
@@ -29,28 +29,29 @@ Compiled information all around keeping your tools sharp
 
 
 # Schleifsteinpflege
-- Säubern
-- Planen
-- Schärfen
+### - Säubern
+### - Planen
+### - Schärfen
 
 
 # Empfehlung für Schleifwerkzeuge
-- Schleifwerkzeug
-1. Diamant-Schleifstein:
--> Norton Crystolon
--> Norton India
--> Kunsuto Ölstein Kombi-Schärfstein
-2. Keramik-Schleifsteine:
-3. Öl-Schleifsteine Arkansas: 
-4. Öl-Schleifsteine Künstlich:
-5. Wasserschleifsteine Belgische Brocken:
-6. Wasserschleifsteine Japanisch:
+## - Schleifwerkzeug
+### 1. Diamant-Schleifstein:
+### 2. Keramik-Schleifsteine:
+### 3. Öl-Schleifsteine Arkansas: 
+### 4. Öl-Schleifsteine Künstlich:
+* Norton Crystolon ExtraGrob/Grob
+* Norton India Grob/Medium
+* IndiCore Grob/Medium
+* Kunsuto Ölstein Kombi-Schärfstein Fein/ExtraFein
+### 5. Wasserschleifsteine Belgische Brocken:
+### 6. Wasserschleifsteine Japanisch:
 
-- Schleifwerkzeug für unterwegs:  
-1. Diamant-Schleifstein:
-2. Keramik-Schleifsteine:
-3. Öl-Schleifsteine Arkansas: 
-4. Öl-Schleifsteine Künstlich:
-5. Wasserschleifsteine Belgische Brocken:
+## - Schleifwerkzeug für unterwegs:  
+### 1. Diamant-Schleifstein:
+### 2. Keramik-Schleifsteine:
+### 3. Öl-Schleifsteine Arkansas: 
+### 4. Öl-Schleifsteine Künstlich:
+### 5. Wasserschleifsteine Belgische Brocken:
 
 
