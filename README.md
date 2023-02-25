@@ -47,8 +47,8 @@
 - Öl: Mit Öl säubern, Öl und Metallabrieb mit Papiertuch abtupfen.
 - Wasser: Mit Wasser abspülen und/oder oberfläche mit Nagura-stein aufreiben
 ### Planen
-#### Wenn ein Schleifstein durch nutzung uneben wird, muss er wieder plan gemacht werden. Dafür kann man einen extragroben Diamantschleifstein benutzen. 
-#### Für Wasser, Keramik und Ölsteine kann man 
+Wenn ein Schleifstein durch nutzung uneben wird, muss er wieder plan gemacht werden. Dafür kann man einen extragroben Diamantschleifstein benutzen. 
+Für Wasser, Keramik und Ölsteine kann man ...
 1. Silizium-karbit-pulver mit Wasser auf eine Glasplatte geben. 
 2. Den Stein der plan gemacht werden soll mit kreisenden bewegungen auf der Glasplatte reiben bis er begradigt ist. 
 3. Die Glasplatte und den Stein reinigen.
