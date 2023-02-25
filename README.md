@@ -21,11 +21,11 @@
 
 
 # Der Schärf-Algorithm
-### - Schneide inspizieren: 
-### - Schneide Reparieren:
-### - Schneide Schärfen:
-### - Schneide Abziehen:
-### - Schneide Polieren: 
+### Schneide inspizieren: 
+### Schneide Reparieren:
+### Schneide Schärfen:
+### Schneide Abziehen:
+### Schneide Polieren: 
 
 
 # Welcher 'Schliff' ist geeignet für welche Aufgaben?
@@ -41,24 +41,24 @@
 
 
 # Schleifsteinpflege
-### - Säubern
+### Säubern
 - Diamant: Radiergummi oder Wasser mit Spülmittel.
 - Keramik: Radiergummi oder Wasser mit Scheuerpulver.
 - Öl: Mit Öl säubern, Öl und Metallabrieb mit Papiertuch abtupfen.
 - Wasser: Mit Wasser abspülen und/oder oberfläche mit Nagura-stein aufreiben
-### - Planen
+### Planen
 #### Wenn ein Schleifstein durch nutzung uneben wird, muss er wieder plan gemacht werden. Dafür kann man einen extragroben Diamantschleifstein benutzen. 
 #### Für Wasser, Keramik und Ölsteine kann man 
 1. Silizium-karbit-pulver mit Wasser auf eine Glasplatte geben. 
 2. Den Stein der plan gemacht werden soll mit kreisenden bewegungen auf der Glasplatte reiben bis er begradigt ist. 
 3. Die Glasplatte und den Stein reinigen.
 4. Mit frischen Karbit-pulver und Wasser den Stein in 2 - 5 diagonalen zügen auf der Glasplatte aufrauen (nicht bei Wassersteinen).
-### - Schärfen
+### Schärfen
 1. Wenn ein Öl oder Keramikstein nicht mehr richtig schärft, siehe Schritt 4 unter 'Planen'
 
 
 # Empfehlung für Schleifwerkzeuge
-## - Schleifwerkzeug (Schleiffläche ab 20x5 cm)
+## Schleifwerkzeug (Schleiffläche ab 20x5 cm)
 ### 1. Diamant-Schleifstein:
 * DMT D8 [Grob, Medium, Fein, Extrafein]
 ### 2. Keramik-Schleifsteine:
@@ -84,7 +84,7 @@
 * Naniwa Professional [JIS: 400, 600, 800, 1000, 2000, 3000, 5000, 10000] -> https://www.knivesandtools.de/de/pt/-naniwa-professional-stone-p310.htm
 
 
-## - Schleifwerkzeug für unterwegs (Schleiffläche ab 10x2 cm)
+## Schleifwerkzeug für unterwegs (Schleiffläche ab 10x2 cm)
 ### 1. Diamant-Schleifstein:
 * Fällkniven DC4 [Grob, Medium] -> https://www.knivesandtools.de/de/pt/-fallkniven-diamant-keramischer-schleifstein-dc4.htm
 * Spyderco 303FCBN2 Doublestuff 2 [Grob, Fein] -> https://www.knivesandtools.de/de/pt/-spyderco-303fcbn2-double-stuff-2-taschenschleifstein.htm
