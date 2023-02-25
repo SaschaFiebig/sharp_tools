@@ -1,6 +1,18 @@
 # sharp_tools
 ## Compiled information all around keeping your tools sharp
 
+# TODO: 
+### Abziehleder Informationen 
+1. Schleifriemen
+2. Schleifrieben selber machen 
+2. Schleifpasten, Politurmittel 
+### Vor und Nachteile von verschiedenen Schleifsteinen
+### Schleiftechniken
+### Andere Materialien
+1. Schleiföl 
+2. Silicium-Karbit-Pulver
+
+
 # Grit, Micron, FEPA F, JIS und Co.
 - Grit: 
 - Micron: 
@@ -35,14 +47,14 @@
 - Öl: Mit Öl säubern, Öl und Metallabrieb mit Papiertuch abtupfen.
 - Wasser: Mit Wasser abspülen und/oder oberfläche mit Nagura-stein aufreiben
 ### - Planen
-- Wenn ein Schleifstein durch nutzung uneben wird, muss er wieder plan gemacht werden. Dafür kann man einen extragroben Diamantschleifstein benutzen. 
-- Für Wasser, Keramik und Ölsteine kann man 
+#### Wenn ein Schleifstein durch nutzung uneben wird, muss er wieder plan gemacht werden. Dafür kann man einen extragroben Diamantschleifstein benutzen. 
+#### Für Wasser, Keramik und Ölsteine kann man 
 1. Silizium-karbit-pulver mit Wasser auf eine Glasplatte geben. 
 2. Den Stein der plan gemacht werden soll mit kreisenden bewegungen auf der Glasplatte reiben bis er begradigt ist. 
 3. Die Glasplatte und den Stein reinigen.
 4. Mit frischen Karbit-pulver und Wasser den Stein in 2 - 5 diagonalen zügen auf der Glasplatte aufrauen (nicht bei Wassersteinen).
 ### - Schärfen
-- Wenn ein Öl oder Keramikstein nicht mehr richtig schärft, siehe Schritt 4 unter 'Planen'
+1. Wenn ein Öl oder Keramikstein nicht mehr richtig schärft, siehe Schritt 4 unter 'Planen'
 
 
 # Empfehlung für Schleifwerkzeuge
